@@ -1,0 +1,50 @@
+
+
+
+                  Roll.no: 18031J0063
+
+
+1. 
+
+2.1: 25,12.5,6.25,3.125,1.56,0.7,0.3
+
+2.playing cricket-is-a hobby--of--mentor-deepak
+
+
+playing-enqueue
+cricket-dequeue
+is-dequeue
+a -dequeue
+hobby-dequeue
+of-dequeue
+playing-dequeue
+mentor-dequeue
+deepak-enqueue
+final answer -----deepak
+
+3.Question answer
+ answer:a
+4.1,2.
+
+5.0,1,2.
+
+6.2^N
+
+7.2^N
+
+8.N^2
+
+9.1
+
+10.question
+a. 3-4    0 1 2 4 4 5 6 7 8 9
+b. 4-9    0 1 2 9 9 5 6 7 8 9
+c. 8-0    0 1 2 9 9 5 6 7 0 9
+d. 2-3    0 1 9 9 9 5 6 7 0 9 
+e. 5-6    0 1 9 9 9 6 6 7 0 9
+f. 5-9    0 1 9 9 9 9 9 7 0 9
+g. 7-3    0 1 9 9 9 9 9 9 0 9 
+h. 4-8    9 1 9 9 9 9 9 9 9 9
+i. 6-1    9 1 9 9 9 9 1 9 9 9
+
+
