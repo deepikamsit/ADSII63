@@ -1,7 +1,4 @@
 
-
-
-
 public class directgraph {
 
 	boolean[] marked;
@@ -22,7 +19,8 @@ public class directgraph {
 	void dfs(Digraph g,int v)
 	{
 		marked[v]=true;
-		for(int w:g.adj(v)) {
+		for(int w:g.adj(v))
+		{
 			if(!marked[w])
 				dfs(g,w);
 			else
@@ -31,7 +29,7 @@ public class directgraph {
 				System.out.println("Cycle exists.");
 				System.exit(0);
 			}
-	}
+	    }
 	marked[v]=false;
 	
 }

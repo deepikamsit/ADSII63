@@ -4,9 +4,9 @@ import java.io.InputStreamReader;
 
 public class Solution {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws Exception {
 		BufferedReader b=new BufferedReader(new InputStreamReader(System.in));
-		Digraph di=new Digraph(b);
+		Digraph di = new Digraph(b);
 		directgraph f=new directgraph(di);
         f.display();
 	}
