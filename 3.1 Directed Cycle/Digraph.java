@@ -12,7 +12,7 @@ public class Digraph {
    {
 	   this.V=v;
 	   adj=(Bag<Integer>[])new Bag[V];
-	   for(int i=0;i<v;v++)
+	   for(int i=0;i<V;i++)
 	   {
 		   adj[i]=new Bag<Integer>();
 	   }
